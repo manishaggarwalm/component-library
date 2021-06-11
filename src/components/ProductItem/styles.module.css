@@ -1,0 +1,26 @@
+.title {
+  color: red
+}
+
+.product-item {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 10px;
+  flex-direction: column;
+}
+
+.bbb_deals_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.bbb_deals_info_line {
+  display: flex;
+  flex: 1;
+}
+
+.title_product_row {
+  flex: 1;
+
+}
+
